@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working on [Marketplace website for artisans](https://github.com/Entropy-3/CLDV-POE-ST10249266)
 
+- 🌱 I’m currently learning **SQL, Database management, C++ and cloud development**
+
 - 📫 How to reach me **NathanTeixeira981@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nathan teixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanteixeira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathan teixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan teixeira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
